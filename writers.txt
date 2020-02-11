@@ -1,0 +1,4 @@
+writer1|assistent
+writer2|junior
+writer3|senior
+writer4|senior

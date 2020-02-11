@@ -1,0 +1,5 @@
+idea1|proposed|creator1|1
+idea5|proposed|creator2|2
+idea3|accepted|creator1|2
+idea2|proposed|creator3|3
+idea4|accepted|creator4|1
