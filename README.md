@@ -1,5 +1,6 @@
 # ScreenWriting
 #The application simulates the writing of a television episode by professional screenwriters,as follows:
+
 1.The information about the screenwriters working on the episode is in a text file. Each writer has a name, and his/her expertize-ca be
   assistant,junior or senior. This file is manually created and it is read when the application starts.
 2.Another file contains information about the ideas that were proposed by the writers. Each idea has a description, a status(can be proposed or accepted),
